@@ -1,0 +1,29 @@
+Since B-R provides career games, and then per game points, rebounds, assists and minutes, I have gone with an admittedly highly simplistic look on things by just going with:
+Rating = points/game + rebounds/game + assists/game
+Why use this definition? It's the data I have easily on hand, which while not a good player rating system is a decent wag for these purposes. Then I group players as follows:
+
+Star -- 20+ rating
+Solid -- 15 to 19.9
+Role Player -- 10 to14.9
+Deep Bench -- 5 to 9.9
+Complete Bust -- less than 5
+DNP -- (never played in the NBA)
+Keep in mind the stats are career per game averages so lower than the peak performance years of a player. Moreover, there is also some bias in that using recent years some of the current players may well spike up their career 'standing' with more years under the belt.
+
+PER
+Hollinger has set up PER so that the league average, every season, is 15.00, which produces sort of a handy reference guide:
+
+A Year For the Ages: 35.0
+Runaway MVP Candidate: 30.0
+Strong MVP Candidate: 27.5
+Weak MVP Candidate: 25.0
+Bona fide All-Star: 22.5
+Borderline All-Star: 20.0
+Solid 2nd option: 18.0
+3rd Banana: 16.5
+Pretty good player: 15.0
+In the rotation: 13.0
+Scrounging for minutes: 11.0
+Definitely renting: 9.0
+The Next Stop: DLeague 5.0
+Only 19 times has a player posted a season efficiency rating over 30.0, with the highest score being 31.84. Michael Jordan and Lebron James lead with four 30+ seasons, with Shaquille O'Neal and Wilt Chamberlain having accomplished three each, and David Robinson, Dwyane Wade, Chris Paul, Tracy McGrady, and Anthony Davis having accomplished one each. The 2008–2009 season was unique in that it was the only season in which more than one player (LeBron James(31.76), Dwyane Wade(30.46), and Chris Paul(30.04)) posted efficiency ratings of over 30.0.

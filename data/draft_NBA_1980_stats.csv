@@ -1,0 +1,47 @@
+Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48
+1,1,GSW,Joe Barry Carroll,Purdue University,10,705,22838,12455,5404,1264,.474,.000,.747,32.4,17.7,7.7,1.8,35.6,.075
+2,2,UTA,Darrell Griffith,University of Louisville,10,765,21403,12391,2519,1627,.463,.332,.707,28.0,16.2,3.3,2.1,22.0,.049
+3,3,BOS,Kevin McHale,University of Minnesota,13,971,30118,17335,7122,1670,.554,.261,.798,31.0,17.9,7.3,1.7,113.0,.180
+4,4,CHI,Kelvin Ransey,Ohio State University,6,474,11586,5380,901,2480,.454,.132,.782,24.4,11.4,1.9,5.2,17.9,.074
+5,5,DEN,James Ray,Jacksonville University,3,103,843,334,228,76,.428,.333,.629,8.2,3.2,2.2,0.7,-0.3,-0.017
+6,6,NJN,Mike O'Koren,University of North Carolina,8,407,8810,3355,1391,856,.490,.271,.651,21.6,8.2,3.4,2.1,14.6,.080
+7,7,NJN,Mike Gminski,Duke University,14,938,24058,10953,6480,1203,.465,.122,.843,25.6,11.7,6.9,1.3,55.9,.111
+8,8,PHI,Andrew Toney,University of Louisiana at Lafayette,8,468,12608,7458,1009,1965,.500,.342,.797,26.9,15.9,2.2,4.2,26.9,.103
+9,9,SDC,Michael Brooks,La Salle University,6,319,9372,4086,2001,818,.486,.152,.714,29.4,12.8,6.3,2.6,16.5,.085
+10,10,POR,Ronnie Lester,University of Iowa,6,250,4959,1816,473,1003,.469,.227,.788,19.8,7.3,1.9,4.0,6.3,.061
+11,11,DAL,Kiki Vandeweghe,University of California Los Angeles,13,810,24521,15980,2785,1668,.525,.368,.872,30.3,19.7,3.4,2.1,75.6,.148
+12,12,NYK,Mike Woodson,Indiana University,11,786,20021,10981,1838,1822,.466,.271,.813,25.5,14.0,2.3,2.3,34.6,.083
+13,13,GSW,Rickey Brown,Mississippi State University,5,340,4487,1482,1200,119,.464,.000,.667,13.2,4.4,3.5,0.4,4.7,.051
+14,14,WSB,Wes Matthews,University of Wisconsin,9,465,9305,3654,626,1955,.478,.225,.788,20.0,7.9,1.3,4.2,11.0,.057
+15,15,SAS,Reggie Johnson,University of Tennessee,4,305,5979,2564,1238,262,.505,.143,.716,19.6,8.4,4.1,0.9,11.0,.088
+16,16,KCK,Hawkeye Whitney,North Carolina State University,2,70,1048,404,146,87,.462,.286,.750,15.0,5.8,2.1,1.2,1.3,.062
+17,17,DET,Larry Drew,University of Missouri,10,714,18370,8110,1265,3702,.467,.291,.798,25.7,11.4,1.8,5.2,24.4,.064
+18,18,ATL,Don Collins,Washington State University,6,303,6134,2983,837,546,.485,.069,.749,20.2,9.8,2.8,1.8,10.5,.082
+19,19,UTA,John Duren,Georgetown University,3,201,2947,712,226,411,.435,.120,.750,14.7,3.5,1.1,2.0,-0.8,-0.014
+20,20,SEA,Bill Hanzlik,University of Notre Dame,10,748,15534,5414,2058,2058,.434,.213,.781,20.8,7.2,2.8,2.8,24.7,.076
+21,21,PHI,Monti Davis,Tennessee State University,1,2,10,3,4,0,.200,,.200,5.0,1.5,2.0,0.0,-0.1,-0.311
+22,22,CLE,Chad Kinch,University of North Carolina at Charlotte,1,41,353,118,33,45,.369,,.778,8.6,2.9,0.8,1.1,-0.5,-0.071
+23,23,DEN,Carl Nicks,Indiana State University,3,156,2579,1067,297,249,.462,.000,.570,16.5,6.8,1.9,1.6,-0.4,-0.007
+24,24,GSW,Larry Smith,Alcorn State University,13,883,22879,5904,8125,941,.531,.000,.531,25.9,6.7,9.2,1.1,46.0,.096
+25,25,GSW,Jeff Ruland,Iona College,8,332,11088,5763,3378,1002,.564,.158,.718,33.4,17.4,10.2,3.0,34.3,.149
+26,26,CHI,Sam Worthen,Marquette University,2,69,967,239,116,118,.492,.000,.750,14.0,3.5,1.7,1.7,0.7,.032
+27,27,HOU,John Stroud,University of Mississippi,1,9,88,25,13,9,.324,,.750,9.8,2.8,1.4,1.0,-0.1,-0.036
+28,28,ATL,Craig Shelton,Georgetown University,2,59,607,240,141,27,.453,.000,.600,10.3,4.1,2.4,0.5,0.0,-0.001
+29,29,IND,Louis Orr,Syracuse University,8,569,13353,5545,2117,853,.468,.083,.787,23.5,9.7,3.7,1.5,25.7,.093
+30,30,IND,Kenny Natt,University of Louisiana at Monroe,3,49,388,150,40,41,.417,.200,.621,7.9,3.1,0.8,0.8,-0.2,-0.026
+31,31,LAL,Wayne Robinson,Virginia Polytechnic Institute and State University,1,81,1592,643,294,112,.460,.000,.729,19.7,7.9,3.6,1.4,1.7,.052
+32,32,POR,David Lawrence,McNeese State University,,,,,,,,,,,,,,,
+33,33,POR,Bruce Collins,Weber State University,,,,,,,,,,,,,,,
+34,34,DAL,Roosevelt Bouie,Syracuse University,,,,,,,,,,,,,,,
+35,35,WSB,Rick Mahorn,Hampton University,18,1117,25779,7763,6957,1082,.493,.132,.704,23.1,6.9,6.2,1.0,51.7,.096
+36,36,NYK,DeWayne Scales,Louisiana State University,3,49,521,224,140,10,.417,.167,.628,10.6,4.6,2.9,0.2,0.2,.017
+37,37,LAL,Butch Carter,Indiana University,6,361,6814,3137,546,683,.475,.307,.788,18.9,8.7,1.5,1.9,8.5,.060
+38,38,HOU,Terry Stotts,University of Oklahoma,,,,,,,,,,,,,,,
+39,39,SAS,Michael Wiley,California State University Long Beach,2,94,1284,692,246,63,.561,.000,.709,13.7,7.4,2.6,0.7,2.9,.107
+40,40,IND,Dick Miller,University of Toledo,1,8,53,8,7,5,.444,.000,,6.6,1.0,0.9,0.6,-0.1,-0.102
+41,41,DEN,Jawann Oldham,Seattle University,10,329,5241,1455,1353,162,.479,.000,.607,15.9,4.4,4.1,0.5,4.3,.039
+42,42,PHO,Kimberly Belton,Stanford University,,,,,,,,,,,,,,,
+43,43,HOU,Billy Williams,Clemson University,,,,,,,,,,,,,,,
+44,44,PHI,Clyde Austin,North Carolina State University,,,,,,,,,,,,,,,
+45,45,DET,Brad Branson,Southern Methodist University,2,72,856,391,206,52,.422,.000,.725,11.9,5.4,2.9,0.7,0.9,.053
+46,46,BOS,Arnette Hallman,Purdue University,,,,,,,,,,,,,,,

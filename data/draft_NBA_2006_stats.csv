@@ -1,0 +1,61 @@
+Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48
+1,1,TOR,Andrea Bargnani,,9,504,15172,7569,2444,635,.438,.356,.824,30.1,15.0,4.8,1.3,18.7,.059
+2,2,CHI,LaMarcus Aldridge,University of Texas at Austin,9,648,22972,12562,5434,1261,.485,.276,.796,35.5,19.4,8.4,1.9,69.4,.145
+3,3,CHA,Adam Morrison,Gonzaga University,3,161,3278,1200,342,222,.373,.331,.710,20.4,7.5,2.1,1.4,-1.4,-0.021
+4,4,POR,Tyrus Thomas,Louisiana State University,8,402,7932,3093,1938,347,.438,.235,.732,19.7,7.7,4.8,0.9,13.0,.078
+5,5,ATL,Shelden Williams,Duke University,6,361,5586,1618,1562,163,.462,.222,.740,15.5,4.5,4.3,0.5,9.9,.085
+6,6,MIN,Brandon Roy,University of Washington,6,326,11561,6136,1388,1517,.459,.348,.800,35.5,18.8,4.3,4.7,37.4,.155
+7,7,BOS,Randy Foye,Villanova University,9,602,16353,6898,1375,1816,.407,.375,.853,27.2,11.5,2.3,3.0,22.9,.067
+8,8,HOU,Rudy Gay,University of Connecticut,9,653,23423,12094,3806,1507,.451,.343,.794,35.9,18.5,5.8,2.3,41.7,.085
+9,9,GSW,Patrick O'Bryant,Bradley University,4,90,524,186,127,25,.494,.000,.583,5.8,2.1,1.4,0.3,0.5,.046
+10,10,SEA,Mouhamed Sene,,3,47,260,103,75,1,.427,,.589,5.5,2.2,1.6,0.0,0.3,.052
+11,11,ORL,J.J. Redick,Duke University,9,537,12870,5815,1014,1060,.441,.400,.888,24.0,10.8,1.9,2.0,34.9,.130
+12,12,NOK,Hilton Armstrong,University of Connecticut,6,292,3378,880,766,102,.501,.286,.582,11.6,3.0,2.6,0.3,3.9,.055
+13,13,PHI,Thabo Sefolosha,,9,603,13857,3476,2271,897,.440,.346,.749,23.0,5.8,3.8,1.5,26.8,.093
+14,14,UTA,Ronnie Brewer,University of Arkansas,8,502,11539,3940,1427,828,.490,.254,.675,23.0,7.8,2.8,1.6,30.4,.127
+15,15,NOK,Cedric Simmons,North Carolina State University,3,75,705,163,141,14,.409,,.390,9.4,2.2,1.9,0.2,0.1,.005
+16,16,CHI,Rodney Carney,University of Memphis,5,299,4600,1778,588,132,.422,.338,.704,15.4,5.9,2.0,0.4,6.2,.064
+17,17,IND,Shawne Williams,University of Memphis,7,314,5368,1769,945,220,.403,.339,.755,17.1,5.6,3.0,0.7,6.7,.060
+18,18,WAS,Oleksiy Pecherov,,3,111,1044,438,266,20,.386,.290,.793,9.4,3.9,2.4,0.2,0.5,.025
+19,19,SAC,Quincy Douby,Rutgers University,3,143,1535,588,152,93,.389,.312,.884,10.7,4.1,1.1,0.7,0.0,.000
+20,20,NYK,Renaldo Balkman,University of South Carolina,6,221,3064,894,769,132,.510,.172,.542,13.9,4.0,3.5,0.6,7.2,.113
+21,21,PHO,Rajon Rondo,University of Kentucky,9,573,18665,6209,2693,4775,.470,.263,.609,32.6,10.8,4.7,8.3,46.6,.120
+22,22,NJN,Marcus Williams,University of Connecticut,4,203,3095,1128,361,574,.386,.321,.767,15.2,5.6,1.8,2.8,0.0,-0.001
+23,23,NJN,Josh Boone,University of Connecticut,4,256,4482,1340,1258,125,.544,,.445,17.5,5.2,4.9,0.5,9.1,.097
+24,24,MEM,Kyle Lowry,Villanova University,9,576,16963,7184,2257,3212,.417,.348,.793,29.4,12.5,3.9,5.6,48.2,.136
+25,25,CLE,Shannon Brown,Michigan State University,9,408,7329,3118,760,458,.420,.332,.807,18.0,7.6,1.9,1.1,9.2,.060
+26,26,LAL,Jordan Farmar,University of California Los Angeles,8,490,9514,3766,930,1407,.423,.374,.734,19.4,7.7,1.9,2.9,13.4,.068
+27,27,PHO,Sergio Rodriguez,,4,285,3763,1217,368,839,.418,.316,.748,13.2,4.3,1.3,2.9,3.6,.046
+28,28,DAL,Maurice Ager,Michigan State University,4,82,505,169,46,19,.339,.250,.566,6.2,2.1,0.6,0.2,-0.9,-0.089
+29,29,NYK,Mardy Collins,Temple University,4,189,2771,742,336,327,.380,.299,.599,14.7,3.9,1.8,1.7,-1.6,-0.027
+30,30,POR,Joel Freeland,,3,151,1821,477,518,65,.459,.000,.728,12.1,3.2,3.4,0.4,3.2,.084
+31,31,POR,James White,University of Cincinnati,3,67,583,182,68,35,.438,.340,.676,8.7,2.7,1.0,0.5,0.8,.062
+32,32,HOU,Steve Novak,Marquette University,9,449,5591,2148,583,132,.438,.431,.876,12.5,4.8,1.3,0.3,14.4,.124
+33,33,ATL,Solomon Jones,University of South Florida,8,281,3092,839,654,99,.467,.111,.717,11.0,3.0,2.3,0.4,5.0,.078
+34,34,LAC,Paul Davis,Michigan State University,4,82,702,217,158,32,.402,.000,.732,8.6,2.6,1.9,0.4,0.5,.035
+35,35,TOR,P.J. Tucker,University of Texas at Austin,4,255,6866,2009,1404,375,.445,.357,.748,26.9,7.9,5.5,1.5,14.0,.098
+36,36,MIN,Craig Smith,Boston College,6,403,6826,3080,1567,322,.553,.037,.661,16.9,7.6,3.9,0.8,16.0,.113
+37,37,MIN,Bobby Jones,University of Washington,2,91,867,288,149,44,.442,.306,.685,9.5,3.2,1.6,0.5,1.1,.060
+38,38,GSW,Kosta Perovic,,1,7,38,10,13,1,.300,,.667,5.4,1.4,1.9,0.1,0.0,.060
+39,39,MIL,David Noel,University of North Carolina,1,68,792,184,123,65,.367,.321,.860,11.6,2.7,1.8,1.0,0.4,.024
+40,40,SEA,Denham Brown,University of Connecticut,,,,,,,,,,,,,,,
+41,41,ORL,James Augustine,University of Illinois at Urbana-Champaign,2,27,156,42,33,4,.514,,.500,5.8,1.6,1.2,0.1,0.3,.101
+42,42,CLE,Daniel Gibson,University of Texas at Austin,7,397,9316,3115,792,775,.402,.407,.780,23.5,7.8,2.0,2.0,16.0,.082
+43,43,NOK,Marcus Vinicius,,2,26,172,50,19,7,.457,.421,.556,6.6,1.9,0.7,0.3,0.2,.056
+44,44,ORL,Lior Eliyahu,,,,,,,,,,,,,,,,
+45,45,IND,Alexander Johnson,Florida State University,2,102,1302,439,275,30,.517,,.672,12.8,4.3,2.7,0.3,1.5,.056
+46,46,UTA,Dee Brown,University of Illinois at Urbana-Champaign,2,68,711,140,69,119,.340,.250,.643,10.5,2.1,1.0,1.8,0.1,.008
+47,47,UTA,Paul Millsap,Louisiana Tech University,9,687,19693,9259,4989,1405,.503,.340,.728,28.7,13.5,7.3,2.0,63.1,.154
+48,48,WAS,Vladimir Veremeenko,,,,,,,,,,,,,,,,
+49,49,DEN,Leon Powe,University of California,5,239,3320,1484,911,78,.515,.000,.682,13.9,6.2,3.8,0.3,12.0,.174
+50,50,CHA,Ryan Hollins,University of California Los Angeles,9,481,5674,1789,1042,141,.581,.000,.651,11.8,3.7,2.2,0.3,9.4,.080
+51,51,LAL,Cheikh Samb,,2,22,114,22,31,1,.250,.000,.444,5.2,1.0,1.4,0.0,-0.1,-0.056
+52,52,LAC,Guillermo Diaz,University of Miami,1,6,18,5,2,1,.250,.000,.600,3.0,0.8,0.3,0.2,0.0,.033
+53,53,SEA,Yotam Halperin,,,,,,,,,,,,,,,,
+54,54,NJN,Hassan Adams,University of Arizona,2,73,547,185,84,14,.534,.000,.643,7.5,2.5,1.2,0.2,0.8,.072
+55,55,CLE,Ejike Ugboaja,,,,,,,,,,,,,,,,
+56,56,TOR,Edin Bavcic,,,,,,,,,,,,,,,,
+57,57,MIN,Loukas Mavrokefalidis,,,,,,,,,,,,,,,,
+58,58,DAL,J.R. Pinnock,George Washington University,,,,,,,,,,,,,,,
+59,59,SAS,Damir Markota,,1,30,170,51,31,6,.365,.375,.636,5.7,1.7,1.0,0.2,-0.2,-0.070
+60,60,DET,Will Blalock,Iowa State University,1,14,166,25,15,17,.300,.200,1.000,11.9,1.8,1.1,1.2,-0.1,-0.032

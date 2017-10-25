@@ -1,0 +1,21 @@
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /players/a/ HTTP/1.1" 200 None
